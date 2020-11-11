@@ -1,0 +1,15 @@
+@import "~bulma/sass/utilities/_all.sass";
+@import "~bulma/sass/utilities/initial-variables"; 
+@import "~bulma/sass/utilities/functions";
+@import "~bulma-divider/src/sass/index.sass";
+$family-primary: "Montserrat", "serif";
+$weight-bold: 700;
+$size-1: 5rem;
+$grey: rgba(80, 81, 79, 1);
+$danger: rgba(242, 95, 92, 1);
+$warning: rgba(255, 224, 102, 1);
+$info: rgba(36, 123, 160, 1);
+$primary: rgba(112, 193, 179, 1);
+$navbar-breakpoint: $tablet;
+$gap: 64px;
+@import "~bulma/bulma";
