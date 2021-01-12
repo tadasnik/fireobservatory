@@ -1,5 +1,12 @@
 [
   {
+    "name": "fires",
+    "path": "/fires",
+    "component": "/home/tadas/fireobservatory/pages/fires/index.vue",
+    "chunkName": "pages/fires/index",
+    "_name": "_15b25b25"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/home/tadas/fireobservatory/pages/index.vue",
